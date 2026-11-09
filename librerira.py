@@ -3,3 +3,6 @@ def f():
 
 def g():
     print('Giovanni')
+
+def h():
+    print('Anna')
