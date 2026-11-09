@@ -7,6 +7,3 @@ def g():
 def h():
     print('Anna')
 
-
-def e():
-    print('Elena')
